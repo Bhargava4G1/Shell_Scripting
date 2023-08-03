@@ -1,13 +1,3 @@
-<<Doc
-        DESCRIPTION:- Read 'n' and generate a pattern given below(number increments from left to right)
-        SAMPLE INPUT:- 4
-        SAMPLE OUTPUT:-
-                Enter the number : 4
-                1
-                1 2
-                1 2 3
-                1 2 3 4
-Doc
 #!/bin/bash
 
 read -p "Enter the number of rows : " n  #reading number of rows from user
